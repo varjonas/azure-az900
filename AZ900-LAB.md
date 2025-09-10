@@ -5,3 +5,4 @@ Toda edição realizada fica salva na aba log de atividade, ali é possível ver
 Em visualizador de recursos, temos uma visão aberta de quais recursos possuímos no nosso grupo e abri-los diretamente.
 Importante ressaltar que é possível criar bloqueios e gerenciar a permissão de cada usuário, para que edições não autorizadas sejam realizadas.
 
+<img width="948" height="727" alt="image" src="https://github.com/user-attachments/assets/9610b2d2-515f-419f-8328-2a24441b6e86" />
