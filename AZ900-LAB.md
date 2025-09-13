@@ -37,4 +37,65 @@ Transmissão de conteúdo: Streaming de áudio e vídeo.
 Armazenamento de dados para análise: Alimentar serviços locais ou na nuvem para obter insights. 
 Data Lakes e Machine Learning: Suporta grandes volumes de dados para cargas de trabalho de alto desempenho. 
 
+-----------------------------------------------------------------------------------------------------------------------------
+
+Agora no módulo de segurança e identidade na Azure, vimos temas como o Entra ID e também o Microsoft Defender for Cloud, para garantirmos a segurança do nosso ambiente Cloud, as ferramentas devem ser fornecidas pelo provider e o cuidado com a segurança é de nossa parte.
+
+O Entra ID é possível sincronizar com a conta OnPrimese ou não e as permissões que esses usuários irão ter dentro do nosso ambiente, temos os logs das contas também para rastreabilidade das ações realizadas.
+<img width="935" height="900" alt="image" src="https://github.com/user-attachments/assets/e1194f13-652d-49b7-aa4a-efee29e44bc2" />
+
+Obs: Quantos dias conseguimos restaurar a conta de um usuário excluído? Os usuários são automaticamente delestados 30 dias após a exclusão.
+
+<img width="951" height="550" alt="image" src="https://github.com/user-attachments/assets/d25e17dc-7c9d-44e5-ab3f-511e17cde10d" />
+
+É possível ativar a funcionalidade para reset de senha, onde o próprio usuário consegue realizar o seu reset, economizando em tempo/chamados, porém é uma função premium e terá um custo.
+
+<img width="935" height="908" alt="image" src="https://github.com/user-attachments/assets/e7dd8755-01f0-49a9-adeb-cca040eeb8d5" />
+
+Funções que podemos criar/alterar
+- Nome de dominio personalizado
+- Regras e administradores
+- Usuários
+
+Também conseguimos consultar o Health, ali mostra a indisponibilidade do serviço Entra ID, conseguimos monitorar o tempo em que nosso serviço ficou ou não indisponível.
+
+<img width="953" height="700" alt="image" src="https://github.com/user-attachments/assets/a21607b4-2365-45e3-99bb-94f398035499" />
+
+Obs: RBAC, esse termo é importante para nossa administração e porque?
+
+RBAC é a sigla para Role-Based Access Control (Controle de Acesso Baseado em Função), uma abordagem para gerenciar permissões em sistemas de TI, na qual o acesso é atribuído a funções, e não a usuários individuais. As funções, como "financeiro" ou "desenvolvedor", representam cargos e conjuntos de permissões, e os usuários são designados a essas funções para determinar o que podem ver e fazer no sistema. 
+
+Como funciona
+1. Definição de Funções:
+A organização define funções que correspondem aos cargos ou responsabilidades dentro da empresa, como administrador, usuário de vendas, analista financeiro, etc. 
+2. Atribuição de Permissões:
+Cada função é associada a um conjunto específico de permissões, como "visualizar", "editar" ou "excluir" dados, e acesso a determinados recursos ou funcionalidades do sistema. 
+3. Atribuição de Usuários a Funções:
+Usuários são designados a uma ou mais funções, herdando as permissões associadas a essas funções. 
+
+Vantagens do RBAC
+Segurança Aprimorada:
+Garante que os usuários só tenham acesso às informações e funcionalidades necessárias para suas funções, seguindo o princípio do privilégio mínimo e reduzindo riscos de segurança. 
+
+Gerenciamento Simplificado:
+Em vez de configurar permissões para cada usuário individualmente, os administradores gerenciam permissões através das funções, o que facilita a administração em ambientes com muitos usuários. 
+
+Hierarquia Clara:
+Reflete a estrutura de uma empresa, definindo níveis de acesso distintos para diferentes cargos.
+
+Defender for Cloud
+
+Eu consigo através do Defender for Cloud no Azure, configurar minhas contas de outros Cloud Provider para monitorar e proteger.
+
+<img width="939" height="896" alt="image" src="https://github.com/user-attachments/assets/cac3dc60-804b-4913-b901-2d5420a82db0" />
+
+Podemos também conectar a conta do Devops, Github, Gitlab e o Defender for cloud irá monitorar os códigos executados, temos um painel de alertas e podemos configura-los para envio de e-mail, notificações no teams, o que fizer sentido para minha empresa.
+
+<img width="950" height="896" alt="image" src="https://github.com/user-attachments/assets/1bcfe723-1746-4ba2-88fb-019c903c6e7a" />
+
+
+
+
+
+
 
