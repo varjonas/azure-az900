@@ -93,6 +93,35 @@ Podemos também conectar a conta do Devops, Github, Gitlab e o Defender for clou
 
 <img width="950" height="896" alt="image" src="https://github.com/user-attachments/assets/1bcfe723-1746-4ba2-88fb-019c903c6e7a" />
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+O tema da vez foi o Azure Pricing Calculator
+
+Com a calculadora do Azure, é possível simular cenários e comparar o ambiente Onpremise com o ambiente cloud e ter uma estimativa de valor, aproximado do custo real. A ideia é poder ter um valor X para estimativa de custo.
+
+<img width="1271" height="943" alt="image" src="https://github.com/user-attachments/assets/aead6449-7fc7-42b3-98ae-7ec94c187b18" />
+
+Abaixo está um exemplo de simulação de uma máquina virtual.
+
+<img width="1270" height="944" alt="image" src="https://github.com/user-attachments/assets/0ddb86da-198e-4cf4-8237-e6e6a0c5bedf" />
+
+O que eu posso simular custos?
+- Produtos
+- Cenários de exemplo
+- Posso salvar estimativas
+
+Existe também a aba de FAQ onde há perguntas frequentes sobre a calculadora.
+
+Obs:
+- Se eu reservar minha máquina por 1 a 3 anos o valor será alterado
+- Caso eu altere de licença para Azure Hybrid, o valor é alterado também
+- Economizar horas de uso na opção pague conforme o uso, gera também economia
+
+<img width="1238" height="816" alt="image" src="https://github.com/user-attachments/assets/ef2c7e3a-d02e-4b23-8292-e269d375fa30" />
+
+
+Obs: Inserir tags para marcar os recursos e o resources groups, os recursos não herdam as tags dos resources groups.
+Isso serve para organização e definir centro de custos para na hora do pagamento identificar com facilidade da onde esses custos sairam.
 
 
 
