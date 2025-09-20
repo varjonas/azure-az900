@@ -156,12 +156,16 @@ Ferramentas para interagir com o Azure
 - Azure PowerShell
 - Azure Cloud Shell
 - Interface de linha de comando (CLI)
+ 
+<img width="951" height="557" alt="image" src="https://github.com/user-attachments/assets/e5b776f3-9dc4-4b04-9dd7-975d423a27b0" />
 
 Posso usar qualquer uma delas, depende de qual estou mais familiarizado, todas vão ter a mesma função de ajuda.
 
 Azure ARC
 Uma ferramenta disponível no Azure, idependente da assinatura, ele tem modelos peculiares, ele segue um modo de boot cloud, para gerenciar recursos que não estão dentro do Azure.
 Nesse necessário, é possível executar um script nas minhas máquinas, para fazer a gestão do equipamento via Nuvem, abrindo possíbilidade de trabalhar fora do ambiente OnPremise, possibilidade de gerenciar tudo em um unico portal, painel unico de gerenciamento e uma visualização de segurança e conformidade.
+
+<img width="932" height="903" alt="image" src="https://github.com/user-attachments/assets/1afdb71c-66f8-4b79-bf69-ae53b0746fd1" />
 
 É possível adicionar uma máquina AWS e aplicar policias nativas da Microsoft, o ARC é para administrar o que está fora do Azure, até o momento, não temos outra aplicação equivalente em outros providers.
 
@@ -173,7 +177,13 @@ Bicep
 Linguagem exclusiva da Microsoft, para criação de recursos no Azure, voltados a automação de recursos, ele vem pra facilitar a vida de quem está aprendendo a automatizar recursos, e funciona em conjunto com o ARM.
 É uma linguagem específica de domínio (DSL) que usa sintaxe declarativa para implantar recursos apenas dentro do Azure.
 
+Em automação da VNET como exemplo, ele me trás o modelo de comando de acordo com o modo que eu selecionar, CLI ou PS, ele muda a sintaxe, mas o resultado é o mesmo, a mesma estratégia.
+Temos mais de uma forma de fazer a mesma coisa.
 
+<img width="827" height="233" alt="image" src="https://github.com/user-attachments/assets/bb30eff2-486e-4c9e-96e4-a6b08e361a25" />
+
+Modelo JSON de criação de uma VNET.
+<img width="683" height="520" alt="image" src="https://github.com/user-attachments/assets/79518c68-a2d4-48b2-9d3a-9cf0a33e40a4" />
 
 
 
