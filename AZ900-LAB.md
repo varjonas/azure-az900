@@ -185,6 +185,32 @@ Temos mais de uma forma de fazer a mesma coisa.
 Modelo JSON de criação de uma VNET.
 <img width="683" height="520" alt="image" src="https://github.com/user-attachments/assets/79518c68-a2d4-48b2-9d3a-9cf0a33e40a4" />
 
+---------------------------------------------------------------------------------------------------------------------------
+
+Ferramentas de monitoramento
+
+- Assistente do Azure
+- Integridade do Serviço do Azure
+- Azure Monitor
+
+O Assistente do Azure, Advisor é uma ferramenta Cloud Native, que nos ajuda a gerenciar nossos recursos, ele faz recomendações de custo, entre outras, com base nas práticas recomendadas para otimizar as implantações do Azure.
+5 tópicos importantes:
+- Confiabilidade
+- Segurança
+- Desempenho
+- Custo
+- Excelência operacional
+<img width="954" height="903" alt="image" src="https://github.com/user-attachments/assets/64d871aa-995b-47e1-ad46-5872680113e9" />
+
+A integridade do serviço Azure é uma coleção de servições que te mantêm informado sobre o status geral do Azure, de serviços que podem afetar você e o status do recurso específico que está te afetando.
+Como exemplo, uma movimentação de rack para manutenção da Microsoft, onde ela te comunica antes e recomenda que você movimente os recursos para que não tenha uma indisponibilidade.
+<img width="1919" height="902" alt="image" src="https://github.com/user-attachments/assets/a49b26dc-6815-46d6-bdb6-bde7618aac99" />
+
+Azure Monitor maximiza a disponibilidade e o desempenho de aplicativos e serviços, coletando, analisando e tomando decisões com base na telemetria da nuvem e de ambientes locais.
+
+<img width="949" height="896" alt="image" src="https://github.com/user-attachments/assets/2f3c97d9-9bc2-46a2-a4a3-bb58f05e3402" />
+<img width="951" height="903" alt="image" src="https://github.com/user-attachments/assets/a56b3597-a1b0-4bba-a8b0-922c3e14c11c" />
+
 
 
 
