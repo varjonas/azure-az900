@@ -148,6 +148,31 @@ Para esse caso em especifico, é necessário uma licença E5 para uma experiênc
 Priva
 Parceria com o Purview, o Priva ajuda com o regulatório, dizendo aonde não está atendo os requisitos, como por exemplo a LGPD, ajudando e apoiando aonde a minha empresa não está cumprindo com os requisitos.
 
+----------------------------------------------------------------------------------------------------------------------------
+
+Ferramentas para interagir com o Azure
+
+Portal do Azure
+Azure PowerShell
+Azure Cloud Shell
+Interface de linha de comando (CLI)
+
+Posso usar qualquer uma delas, depende de qual estou mais familiarizado, todas vão ter a mesma função de ajuda.
+
+Azure ARC
+Uma ferramenta disponível no Azure, idependente da assinatura, ele tem modelos peculiares, ele segue um modo de boot cloud, para gerenciar recursos que não estão dentro do Azure.
+Nesse necessário, é possível executar um script nas minhas máquinas, para fazer a gestão do equipamento via Nuvem, abrindo possíbilidade de trabalhar fora do ambiente OnPremise, possibilidade de gerenciar tudo em um unico portal, painel unico de gerenciamento e uma visualização de segurança e conformidade.
+
+É possível adicionar uma máquina AWS e aplicar policias nativas da Microsoft, o ARC é para administrar o que está fora do Azure, até o momento, não temos outra aplicação equivalente em outros providers.
+
+ARM Azure Resource Manager
+Cria uma camada de gerenciamento que permite criar, atualizar e excluir recursos da assinatura do Azure.
+Arquivos JSON.
+
+Bicep
+Linguagem exclusiva da Microsoft, para criação de recursos no Azure, voltados a automação de recursos, ele vem pra facilitar a vida de quem está aprendendo a automatizar recursos, e funciona em conjunto com o ARM.
+
+
 
 
 
