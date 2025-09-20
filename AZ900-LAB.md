@@ -171,6 +171,7 @@ Arquivos JSON.
 
 Bicep
 Linguagem exclusiva da Microsoft, para criação de recursos no Azure, voltados a automação de recursos, ele vem pra facilitar a vida de quem está aprendendo a automatizar recursos, e funciona em conjunto com o ARM.
+É uma linguagem específica de domínio (DSL) que usa sintaxe declarativa para implantar recursos apenas dentro do Azure.
 
 
 
