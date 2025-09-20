@@ -152,10 +152,10 @@ Parceria com o Purview, o Priva ajuda com o regulatório, dizendo aonde não est
 
 Ferramentas para interagir com o Azure
 
-Portal do Azure
-Azure PowerShell
-Azure Cloud Shell
-Interface de linha de comando (CLI)
+- Portal do Azure
+- Azure PowerShell
+- Azure Cloud Shell
+- Interface de linha de comando (CLI)
 
 Posso usar qualquer uma delas, depende de qual estou mais familiarizado, todas vão ter a mesma função de ajuda.
 
