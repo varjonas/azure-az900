@@ -123,6 +123,32 @@ Obs:
 Obs: Inserir tags para marcar os recursos e o resources groups, os recursos não herdam as tags dos resources groups.
 Isso serve para organização e definir centro de custos para na hora do pagamento identificar com facilidade da onde esses custos sairam.
 
+----------------------------------------------------------------------------------------------------------------------------
+
+O foco agora é a governança, então, o objetivo é a criação de politicas, que é aplicada para gestão de recursos e ela depende de quem está tentando manipular esses recursos, idependente de quem seja, administrador ou não.
+
+<img width="953" height="896" alt="image" src="https://github.com/user-attachments/assets/8dc16060-35a2-43d4-8b3f-23b315f4e785" />
+
+É possível usar templates de politicas e modifica-las conforme a minha necessidade.
+
+Um resource group, quando criamos uma politica para ele, essa politica é herdada pelos meus itens do grupo de recursos, porém caso o eu movimente esse recurso, a politica não seguirá junto com a movimentação.
+
+<img width="940" height="890" alt="image" src="https://github.com/user-attachments/assets/7b9ceafa-6165-4121-a48c-ef042b2140cd" />
+
+Também falamos aqui sobre o Purview, que em conjunto com o 365, é um conjunto de ferramentas, uma switch de aplicações, com foco em compliansive e governança.
+Focado em administrar dados não só o Azure, mas de recursos fora do Azure também, temos várias soluções agrupadas por plataformas.
+
+<img width="940" height="682" alt="image" src="https://github.com/user-attachments/assets/567f4182-3b37-4528-aabe-2387550dca17" />
+
+- Capturar mensagens impróprias pra mitigar riscos
+- Compliance Manager
+- Records Management (Valida se existe gravações de dados, em reuniões, eventos)
+Para esse caso em especifico, é necessário uma licença E5 para uma experiência mais completa. 
+
+Priva
+Parceria com o Purview, o Priva ajuda com o regulatório, dizendo aonde não está atendo os requisitos, como por exemplo a LGPD, ajudando e apoiando aonde a minha empresa não está cumprindo com os requisitos.
+
+
 
 
 
